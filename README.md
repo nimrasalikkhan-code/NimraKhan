@@ -1,4 +1,4 @@
 # NimraKhan
 This is my first github project.
 <br>
-Author - Nimra
+Author - Nimra(Khan )
